@@ -2,13 +2,13 @@
 
 红米 G 游戏本通用，未完成
 
-支持 MacOS 11.0
+支持 MacOS Big Sur
 
 ## BIOS设置
 
 快速启动 -> 关闭
 
-CFG Lock -> 关闭 与 DVMT-Preallocated -> 64MB 可使用 Insyde H2OUVE 修改偏移值实现
+CFG Lock -> 关闭 与 DVMT-Preallocated -> 64MB 可使用 Insyde H2OUVE 修改偏移值实现 （非必须修改）
 
 ### i5-10200H 版本的核显驱动后会花屏，目前无解！
 
@@ -20,8 +20,8 @@ CFG Lock -> 关闭 与 DVMT-Preallocated -> 64MB 可使用 Insyde H2OUVE 修改�
 | 有线网络 | 支持 |
 | 无线网络 | 支持 |
 | 蓝牙 | 暂不支持 |
-| HDMI (Type-C) 输出 | 支持 |
-| 声音输出 | 耳机输出 和 HDMI |
-| 触控板 | 勉强能用 |
+| HDMI (Type-C) 输出 | 暂不支持 |
+| 声音输出 | 由于智音技术限制，只支持耳机输出 |
+| 触控板 | 支持 |
 | 休眠 | 暂不支持 |
 
