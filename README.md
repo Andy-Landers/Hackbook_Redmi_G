@@ -2,15 +2,16 @@
 
 红米 G 游戏本通用
 
-支持 MacOS Big Sur
+- 基于 `OpenCore 0.6.4`
+- 支持 `MacOS Big Sur`
 
-后续不再更新
+由于我手上的是 `i5-10200H` 的版本，后续不再更新
 
 ## BIOS设置
 
-快速启动 -> 关闭
+`快速启动` -> `关闭`
 
-CFG Lock -> 关闭 与 DVMT-Preallocated -> 64MB 可使用 Insyde H2OUVE 修改偏移值实现 （非必须修改）
+`CFG Lock` -> `关闭` 与 `DVMT-Preallocated` -> `64MB` 可使用 `Insyde H2OUVE` 修改偏移值实现 （非必须修改）
 
 ### i5-10200H 版本的核显驱动后会花屏，目前无解！
 
