@@ -13,7 +13,7 @@
 
 - 必须修改：`快速启动` -> `关闭`
 
-- BIOS 设置中不存在，但非必须修改：`CFG Lock` -> `关闭` 与 `DVMT-Preallocated` -> `64MB` （可使用 `Insyde H2OUVE` 修改偏移值）
+- BIOS 设置中不存在：`CFG Lock` -> `关闭` 与 `DVMT-Preallocated` -> `64MB` （但可使用 `Insyde H2OUVE` 修改偏移值，建议修改）
 
 ## 目前进展
 
